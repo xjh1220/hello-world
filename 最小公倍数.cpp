@@ -12,6 +12,6 @@ int main() {
 		b=c;
 	}
 	d=d/a;
-	printf("×îĞ¡¹«±¶ÊıÊÇ%d",d);
+	printf("æœ€å°å…¬å€æ•°æ˜¯%d",d);
 	return 0;
 } 
